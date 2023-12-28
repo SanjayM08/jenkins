@@ -1,0 +1,4 @@
+its runnig on 80:8080 ports so 
+default ip considre
+not consider ip:8080
+

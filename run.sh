@@ -2,6 +2,6 @@
 
 
 
-docker stop 83615aa57b47
+docker start 83615aa57b47
 
 echo "Jenkins Stoped"
